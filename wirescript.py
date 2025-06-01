@@ -11,14 +11,14 @@ b,b,b,b,b,a
 a,b,b,a,b,a
 a,a,b,a,a,a
 b,a,b,b,a,a"""
-filesvarpiramid="""b,a,b,a,a,b
-a,a,b,a,a,a
-a,a,a,b,a,a
-b,a,a,b,a,b
-b,a,b,c,c,c
-a,a,b,c,c,c
-a,a,a,c,c,c
-b,a,a,c,c,c"""
+filesvarpiramid="""b,b,b,a,b,b
+b,b,a,a,b,a
+b,b,b,b,b,a
+a,b,a,a,b,b
+b,b,b,c,a,c
+a,b,b,c,a,c
+b,b,a,c,a,c
+a,b,a,c,a,c"""
 
 filevarin=""
 filevarout=""
